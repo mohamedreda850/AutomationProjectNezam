@@ -1,0 +1,11 @@
+
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÄÍû8óì±àÆ1
+o
+java:S2095P"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ƒş±Ûùÿÿÿÿ8í±àÆ1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(íÍ˜¦üÿÿÿÿ8í±àÆ1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(áÅªÒÿÿÿÿÿ8í±àÆ1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¢¬Ô«ÿÿÿÿÿ8í±àÆ1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(Ü°şÿÿÿÿ8’í±àÆ1
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(¢¬Ô«ÿÿÿÿÿ8“í±àÆ1
