@@ -21,7 +21,7 @@ public class TC02_LandingTest  {
     private SoftAssert softAssert;
 @BeforeClass
 public void login() throws IOException {
-setupDriver("chrome");
+setupDriver("edge");
 getDriver().manage().window().maximize();
 getDriver().get(Utilities.getPropertyValue("URL"));
 new P01_LoginPage(getDriver()).loginSteps(Utilities.getJSONData
